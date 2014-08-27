@@ -1,0 +1,112 @@
+[
+    {
+        "city": "Adelanto",
+        "name": "Adelanto Branch Library",
+        "zip": "92301",
+        "pos": [
+            -112.4949512,
+            45.96928459999999
+        ],
+        "phone": "(760) 246-5661",
+        "location": "11497 Bartlett"
+    },
+    {
+        "city": "Agoura Hills",
+        "name": "Agoura Hills Library",
+        "zip": "91301",
+        "pos": [
+            -118.7748366,
+            34.1445517
+        ],
+        "phone": "(818) 889-2278",
+        "location": "29901 Ladyface Court"
+    },
+    {
+        "city": "Alameda",
+        "name": "Alameda Free Library",
+        "zip": "94501",
+        "pos": [
+            -73.8830706,
+            42.761322
+        ],
+        "phone": "(510) 748-4660",
+        "location": "2200 A Central Ave."
+    },
+    {
+        "city": "Alameda",
+        "name": "Alameda Free Library",
+        "zip": "94501",
+        "pos": [
+            -80.6221195,
+            41.0981452
+        ],
+        "phone": "(510) 747-7747",
+        "location": "1550 Oak St"
+    },
+    {
+        "city": "Alameda",
+        "name": "Bay Farm Island Branch",
+        "zip": "94502",
+        "pos": [
+            -122.241547,
+            37.736958
+        ],
+        "phone": "(510) 748-4668",
+        "location": "3221 Mecartney Rd."
+    },
+    {
+        "city": "Alameda",
+        "name": "West End Branch",
+        "zip": "94501",
+        "pos": [
+            -122.2730203,
+            37.773043
+        ],
+        "phone": "(510) 748-4667",
+        "location": "788 Santa Clara Ave."
+    },
+    {
+        "city": "Albany",
+        "name": "Albany Library",
+        "zip": "94706",
+        "pos": [
+            -122.2931794,
+            37.8876471
+        ],
+        "phone": "(510) 526-3720",
+        "location": "1247 Marin Avenue"
+    },
+    {
+        "city": "Alhambra",
+        "name": "Alhambra Public Library",
+        "zip": "91801",
+        "pos": [
+            -118.1275376,
+            34.0930714
+        ],
+        "phone": "(626) 570-5008",
+        "location": "101 S. First St."
+    },
+    {
+        "city": "Aliso Viejo",
+        "name": "Aliso Viejo Branch Library",
+        "zip": "92656",
+        "pos": [
+            -117.7269837,
+            33.570176
+        ],
+        "phone": "(949) 360-1730",
+        "location": "1 Journey"
+    },
+    {
+        "city": "Alleghany",
+        "name": "Alleghany Station Library",
+        "zip": "95910",
+        "pos": [
+            -78.8762057,
+            42.8794888
+        ],
+        "phone": "(530) 287-3287",
+        "location": "123 Main Street"
+    }
+]

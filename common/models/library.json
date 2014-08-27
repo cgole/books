@@ -1,0 +1,36 @@
+{
+  "name": "library",
+  "plural": "libraries",
+  "base": "PersistedModel",
+  "type": "model",
+  "properties": {
+    "city": {
+      "type": "string",
+      "required": true
+    },
+    "location": {
+      "type": "string",
+      "required": true
+    },
+    "name": {
+      "type": "string",
+      "required": true
+    },
+    "zip": {
+      "type": "number",
+      "required": true
+    },
+    "phone": {
+      "type": "string",
+      "required": true
+    },
+    "pos": {
+      "type": "geopoint",
+      "required": true
+    }
+  },
+  "validations": [],
+  "relations": {},
+  "acls": [],
+  "methods": []
+}
