@@ -13,7 +13,13 @@
     }
   },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "library": {
+      "type": "belongsTo",
+      "model": "library",
+      "foreignKey": ""
+    }
+  },
   "acls": [],
   "methods": []
 }

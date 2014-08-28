@@ -9,27 +9,27 @@
     "dataSource": "db"
   },
   "AccessToken": {
-    "dataSource": "db",
-    "public": false
+    "public": false,
+    "dataSource": "db"
   },
   "ACL": {
-    "dataSource": "db",
-    "public": false
+    "public": false,
+    "dataSource": "db"
   },
   "RoleMapping": {
-    "dataSource": "db",
-    "public": false
+    "public": false,
+    "dataSource": "db"
   },
   "Role": {
-    "dataSource": "db",
-    "public": false
+    "public": false,
+    "dataSource": "db"
   },
   "book": {
-    "dataSource": "mongo",
-    "public": true
+    "public": true,
+    "dataSource": "mongo"
   },
   "library": {
-    "dataSource": "mongo",
-    "public": true
+    "public": true,
+    "dataSource": "mongo"
   }
 }
