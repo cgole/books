@@ -1,0 +1,3 @@
+nohup: mongodb: No such file or directory
+/usr/local/bin/mongod:3: warning: Insecure world writable dir /usr/local in PATH, mode 040777
+all output going to: /usr/local/var/log/mongodb/mongo.log
