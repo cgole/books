@@ -2,12 +2,14 @@ require('heapdump');
 
 function testClass() {
 }
-var sugar = []
 
+var sugar = []
 setInterval(function() {
-  for (var i=0; i <10000; i++) {  
+  for (var i=0; i < 100; i++) {  
     sugar.push(new testClass);
   }
   console.error('tests: %d', sugar.length);
+  if (sugar.length > 1000) {
+   clearInterval();
+  }
 }, 1000);
-
