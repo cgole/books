@@ -18,5 +18,8 @@
   },
   "optionalDependencies": {
     "loopback-explorer": "^1.1.0"
+  },
+  "engines": {
+    "node" : "0.10.30"
   }
 }
