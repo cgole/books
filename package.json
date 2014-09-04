@@ -1,5 +1,5 @@
 {
-  "name": "books",
+  "name": "abooks",
   "version": "0.0.0",
   "main": "server/server.js",
   "scripts": {
@@ -13,6 +13,7 @@
     "loopback-boot": "^2.0.0",
     "loopback-connector-mongodb": "^1.4.2",
     "loopback-datasource-juggler": "^2.0.0",
+    "lwip": "0.0.2",
     "serve-favicon": "^2.0.1",
     "underscore": "^1.7.0"
   },
@@ -20,6 +21,6 @@
     "loopback-explorer": "^1.1.0"
   },
   "engines": {
-    "node" : "0.10.30"
+    "node": "0.10.30"
   }
 }
