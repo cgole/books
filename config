@@ -1,0 +1,9 @@
+; these are the defaults
+prepare[] = npm rebuild
+prepare[] = npm install --production
+start = sl-run --cluster=CPU
+stop = SIGTERM
+restart = SIGHUP
+
+[files]
+strongloop.json; copy this file into every working directory
